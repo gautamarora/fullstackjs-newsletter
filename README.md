@@ -13,8 +13,3 @@ You can contribute a story for next week's newsletter issue:
 1. Leave a comment recommending the story, relevant link(s) and why you think it should be included.
 
 ## [Archive](http://www.fullstackjs.com/newsletter/archive)
-
-1. [Issue #1](http://eepurl.com/cbsF_D)
-1. [Issue #2](http://eepurl.com/ccgLC5)
-1. [Issue #3](http://eepurl.com/cc6wZP)
-...
